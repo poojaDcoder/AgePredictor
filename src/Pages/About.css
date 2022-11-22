@@ -1,0 +1,25 @@
+#first{
+    text-align: center;
+    color: rgb(4, 64, 82);
+    
+}#first h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-block: 100px;
+    background-color: rgb(14, 113, 126);
+    width: 400px;
+    height: 60px;
+    border-radius:4mm;
+    text-align: center;
+    inset-inline-end: 200px;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+#image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}

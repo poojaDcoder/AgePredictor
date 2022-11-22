@@ -1,0 +1,16 @@
+.homepage{
+    color: rgb(48, 17, 34);
+    align-items: center;
+    font-stretch: condensed;
+    margin-top: 20px;
+    
+}
+body{
+   background-color: rgb(121, 247, 121);
+    text-align: left;
+    
+}
+#age{
+    background-color:rgb(180, 60, 180);
+    
+}

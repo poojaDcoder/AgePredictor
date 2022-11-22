@@ -1,0 +1,68 @@
+input, textarea {
+    padding: 9px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 13px/100% Verdana, Tahoma, sans-serif;
+    width: 200px;
+    background: #FFFFFF;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+textarea {
+    width: 200px;
+    height: 150px;
+    line-height: 150%;
+}
+#state{
+    padding: 9px;
+    border: solid 1px #E5E5E5;
+    outline: 0;
+    font: normal 13px/100% Verdana, Tahoma, sans-serif;
+    width: 200px;
+    background: #FFFFFF;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+label {
+    margin-left: 0px;
+    color:rgb(34, 34, 112);
+}
+button, input[type="submit"] {
+    width: auto;
+    padding: 9px 15px;
+    background: #cccccc;
+    border: 0;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+    border-color: #C9C9C9;
+}
+body{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* body{
+    background:linear-gradient(white,aqua);
+    background-size:cover;    
+}
+#formGridQuery{
+    width: 800px;
+    height:100px;
+   
+}
+#formGridEmail{
+    width: 350px;
+    
+
+}
+.Label{
+    position: absolute;
+    left: 50%;
+} */
